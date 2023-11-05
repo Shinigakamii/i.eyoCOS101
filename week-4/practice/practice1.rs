@@ -5,7 +5,7 @@ fn main() {
 	println! ("Name: {}", name);
 	println!("University: {}, \nAddress: {}", uni, addr);
 
-	Let department: & static str "Computer Science";
-	Let school:& static str = "School of Science and Technology"; 
+	Let department: & 'static str "Computer Science";
+	Let school:& 'static str = "School of Science and Technology"; 
 	println! ("Department: {}, \nSchool: {}", department, school);
 }
