@@ -1,0 +1,9 @@
+Company , Founding Date , Assets , Liabilities , Percentage Leverages , 5% of percentage leverages
+Cadbury , 1965 , 15000000 , 5500000 , 63.333332 , 3.1666665
+Champion , 1974 , 25000000 , 8000000 , 68 , 3.4
+Dangote , 1970 , 18000000 , 10000000 , 44.444447 , 0
+Flour Mills , 1960 , 32000000 , 4000000 , 87.5 , 4.375
+Nestle , 1961 , 8000000 , 1500000 , 81.25 , 4.0625
+Unilever , 1923 , 37000000 , 11000000 , 70.27027 , 0
+Honeywell , 1906 , 34000000 , 9000000 , 73.52941 , 3.6764708
+Nigerian Breweries , 1946 , 30000000 , 12000000 , 60.000004 , 0

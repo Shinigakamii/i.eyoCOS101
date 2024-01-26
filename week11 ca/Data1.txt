@@ -1,0 +1,5 @@
+For Companies with Liabilities Less than 10,000,000
+Company , Percentage Leverages , Multiple of Percentage Leverages
+Champion , 68 , 46.24
+Flour Mills , 87.5 , 76.5625
+Honeywell , 73.52941 , 54.065742
